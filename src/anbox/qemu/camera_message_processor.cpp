@@ -25,7 +25,7 @@
 #include <cassert>
 #include <cstdlib>
 #include <iostream>
-
+#include <map>
 #include <ctime>
 
 using anbox::camera::CameraService;
